@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nockreg
-- 👀 I’m interested in ... football, java developing, game of thrones
-- 🌱 I’m currently learning ... java
+- 👀 I’m interested in ...  java developing
+- 🌱 I’m currently learning ... spring, html, css, js, mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nockreg@gmail.com
 
